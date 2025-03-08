@@ -116,7 +116,7 @@ header{
 
 }
 .wrapper .form-box.login{
-    transition: transform .18 ease;
+    transition: transform .19 ease;
     transform: translateX(0);
 
    
@@ -132,7 +132,7 @@ header{
     
 }
 .wrapper.active .form-box.register{
-    transition: transform .18 ease;
+    transition: transform .19 ease;
     transform: translateX(0);
 }
 .wrapper .icon-close{
